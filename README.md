@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pharaon3
+- 👋 Hi, I’m Pharaon
 - 👀 I’m interested in Web Design and Developing.
 - 🌱 I’m currently learning React Native.
 
