@@ -17,8 +17,9 @@
 </div>
 
 ---
-- 🔭 I’m eager to learn a new and make my skill sharper whenever I get any chance. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 If you are looking for someone to accomplish your idea with high responsibility, please don’t hesitate to contact with me.
+- 👋 Hi, I’m Pharaon
+- 👀 I’m interested in Web Design and Developing.
+- 🌱 I’m currently learning React Native.
 
 ---
 
@@ -36,8 +37,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -49,9 +50,7 @@
 
 
 
-- 👋 Hi, I’m Pharaon
-- 👀 I’m interested in Web Design and Developing.
-- 🌱 I’m currently learning React Native.
+
 
 # My Skills
 
@@ -62,8 +61,3 @@ React Native, Native Android, Swift...
 ## Electronic Engineering:  
 STM32, Arduino, Avr series.
 
-
-<!---
-Pharaon3/Pharaon3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
