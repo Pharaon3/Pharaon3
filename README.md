@@ -43,9 +43,9 @@
 ---
 
 ### :fire: My Stats :
-![Pharaon313's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pharaon313&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pharaon313&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![fullstack-guru0719's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pharaon313&theme=dark&background=000000)](https://git.io/streak-stats)
+![Pharaon3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pharaon3&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pharaon3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Pharaon3's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pharaon3&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
