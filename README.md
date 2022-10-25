@@ -16,13 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=fullstack-guru0719&style=flat-square&color=blue" alt=""/>
 </div>
 
-| Format   | Tag example |
-| -------- | ----------- |
-| Headings | =heading1=<br>==heading2==<br>===heading3=== |
-| New paragraph | A blank line starts a new paragraph |
-| Source code block |  // all on one line<br> {{{ if (foo) bar else   baz }}} |
-
-
 ---
 - 👋 Hi, I’m Pharaon
 - 👀 I’m interested in Web Design and Developing.
