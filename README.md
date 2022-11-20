@@ -48,16 +48,3 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pharaon3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   [![Pharaon3's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pharaon3&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
-
-
-# My Skills
-
-## Web:                     
-React, PHP, HTML, CSS, JAVASCRIPT...
-## Mobile:                  
-React Native, Native Android, Swift...
-## Electronic Engineering:  
-STM32, Arduino, Avr series.
-
