@@ -50,3 +50,13 @@
   
   https://drive.google.com/file/d/1etC0pqesgUBZ1sBexJS4C-NwI7xOK4QT/view?usp=share_link
 
+r.t.swanstonn@gmail.com
+Zara1235
+RTSwanstonn1989!
+
+
+https://github.com/Swanstonn
+PharaonCaesarJBP
+
+Telegram: +77767903892
+Whatsapp: +12295860379
