@@ -48,15 +48,3 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pharaon3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   [![Pharaon3's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pharaon3&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  https://drive.google.com/file/d/1etC0pqesgUBZ1sBexJS4C-NwI7xOK4QT/view?usp=share_link
-
-r.t.swanstonn@gmail.com
-Zara1235
-RTSwanstonn1989!
-
-
-https://github.com/Swanstonn
-PharaonCaesarJBP
-
-Telegram: +77767903892
-Whatsapp: +12295860379
