@@ -8,13 +8,13 @@
 </div>
 
 ---
-- 👋 Hi, I’m Pharaon
+- 👋 Hi, I’m <a href="https://drive.google.com/file/d/1p2Y4xDEixiKGIndXhAvXaa1zQothjKoI/view?usp=sharing" >Pharaon</a>
 - 👀 I’m interested in Web Design and Developing.
 - 🌱 I’m currently learning ASP.NET.
 
 ---
 
-### :hammer_and_wrench: 💻 My Major Skill :  
+### :hammer_and_wrench: My Major Skill :  
   <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
