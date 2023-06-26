@@ -116,8 +116,13 @@
 ---
 
 ### :fire: My Stats :
+<div>
 ![Pharaon3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pharaon3&show_icons=true&theme=radical)
+</div>
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pharaon3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div>
 [![Pharaon3's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pharaon3&theme=dark&background=000000)](https://git.io/streak-stats)
-  
+</div>
 
