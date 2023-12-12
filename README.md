@@ -23,7 +23,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://drive.google.com/file/d/1nWc7OZlzwyY1JioIu69Mqjwukq-WAvl9/view?usp=sharing">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
