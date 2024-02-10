@@ -19,7 +19,8 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <a href="https://drive.google.com/file/d/1p2Y4xDEixiKGIndXhAvXaa1zQothjKoI/view?usp=sharing" ><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></a>
+        <a href="https://drive.google.com/file/d/1xF0oJkSADT6B6qAx8s80X9PB8MTVy9gg/view?usp=sharing" >
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></a>
       <br>React
     </td>
     <td align="center" width="96">
