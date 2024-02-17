@@ -108,7 +108,9 @@
       <br>Sass
     </td>
     <td align="center" width="96">
+      <a href="https://drive.google.com/file/d/1rWFrrDjN4Z4I0rFUQtkYXTFs2fO_-PPF/view?usp=sharing">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      </a>
       <br>PostgreSQL
     </td>
  </tr>
