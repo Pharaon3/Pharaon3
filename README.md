@@ -9,8 +9,7 @@
 
 ---
 - 👋 Hi, I’m Pharaon
-- 👀 I’m interested in Web Design and Developing.
-- 🌱 I’m currently learning ASP.NET.
+- 👀 I’m interested in Web Development.
 
 ---
 
