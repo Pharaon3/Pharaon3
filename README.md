@@ -11,8 +11,8 @@
 - 👋 Hi, I’m Pharaon
 - 👀 I’m interested in Web Development.
 - Donate me.
-- ETH 0x867359aea13d09a8fa1b5d4cca4b414800243d2e
 - TRC20 TTPg2Ef4oRDdhnwshQRWE8BJNrkMsUpEoP
+- BEP20 0xaa9e48d0128b6ff56dccc580a530f5ce1bc8a5e7
 
 ---
 
