@@ -9,7 +9,7 @@
 
 ---
 - 👋 Hi, I’m Pharaon
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Software Engineering.
 - Donate me.
 - TRC20 TUH3qAevsp4uvpEjuAsc2v7acYQy3ZtbcB
 - BEP20 0xaa9e48d0128b6ff56dccc580a530f5ce1bc8a5e7
