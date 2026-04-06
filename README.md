@@ -35,7 +35,9 @@
       <br>Python
     </td>
     <td align="center" width="96">
+      <a href="https://drive.google.com/file/d/1PBABxNU44FyUoyfRQeSvDTG31SQaAgRg/view?usp=sharing">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
