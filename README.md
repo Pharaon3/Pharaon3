@@ -11,7 +11,8 @@
 - 👋 Hi, I’m Pharaon
 - 👀 I’m interested in Software Engineering.
 - Donate me.
-
+TRC20: TRUEdF1V4kCHcY5BVtEmAaMuUgzgNA5eCE
+BEP20: 0x3BFd116AaCd06025C72Bbf92b157AD6858E0637C
 ---
 
 ### :hammer_and_wrench: My Major Skill :  
